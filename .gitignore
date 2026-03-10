@@ -1,0 +1,31 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Visual Studio
+.vs/
+.vscode/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# User settings
+*.suo
+*.user
+*.userprefs
+
+# Unreal auto files
+*.opensdf
+*.sdf
+
+# Crash dumps
+*.dmp
